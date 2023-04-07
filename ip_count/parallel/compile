@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nvcc -o ip_count_prl ./sliding_window.cu
